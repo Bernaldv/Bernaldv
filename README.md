@@ -1,4 +1,13 @@
-## Hi Im Diana there 👋
+## Hi, I'm Diana Bernal👋
+
+Welcome to my GitHub I like work with data and I'm Learning about the Data Engieer rol
+
+## About me
+
+:computer Major: Systems Engineer
+:location Location: Colombia 
+🔭 Current Job: Finding new challenges
+:pencil:  Current Learning: Data engineering
 
 <!--
 **Bernaldv/Bernaldv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
