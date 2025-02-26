@@ -9,10 +9,10 @@ Ubicaión: Colombia
 Aprendizaje Actual: Data engineering
 
 ### Estoy aprendiendo...
-<img src="./assets/github.png"/><img src="./assets/tech/security.png">
+<img src="./assets/github.png"/>
 
 
-### : zap: Actividad Reciente
+### : Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Bernaldv/bernaldv.github.io](https://github.com/Bernaldv/bernaldv.github.io)<br>
 2. 📔 Created new repository [Bernaldv/bernaldv.github.io](https://github.com/Bernaldv/bernaldv.github.io)<br>
