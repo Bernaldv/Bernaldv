@@ -5,14 +5,17 @@
 ## Acerca de mi
 
 Profesión: Ingeniera de Sistemas
+
 Ubicaión: Colombia 
+
 Aprendizaje Actual: Data engineering
 
 ### Estoy aprendiendo...
+
 <img src="./assets/github.png"/>
 
 
-### : Actividad Reciente
+### Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Bernaldv/bernaldv.github.io](https://github.com/Bernaldv/bernaldv.github.io)<br>
 2. 📔 Created new repository [Bernaldv/bernaldv.github.io](https://github.com/Bernaldv/bernaldv.github.io)<br>
