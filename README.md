@@ -1,26 +1,22 @@
-## Hi, I'm Diana Bernal👋
+## Hola, Soy Diana Bernal👋
 
-Welcome to my GitHub I like work with data and I'm Learning about the Data Engieer rol
+ Bienvenido a  mi GitHub
 
-## About me
+## Acerca de mi
 
-:computer Major: Systems Engineer
-:location Location: Colombia 
-🔭 Current Job: Finding new challenges
-:pencil:  Current Learning: Data engineering
+Profesión: Ingeniera de Sistemas
+Ubicaión: Colombia 
+Aprendizaje Actual: Data engineering
 
-<!--
-**Bernaldv/Bernaldv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estoy aprendiendo...
+<img src="./assets/github.png"/><img src="./assets/tech/security.png">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### : zap: Actividad Reciente
+<!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update_end-->
