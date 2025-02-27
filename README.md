@@ -17,10 +17,10 @@ Aprendizaje Actual: Data engineering
 
 ### Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Bernaldv/bernaldv.github.io](https://github.com/Bernaldv/bernaldv.github.io)<br>
-2. 📔 Created new repository [Bernaldv/bernaldv.github.io](https://github.com/Bernaldv/bernaldv.github.io)<br>
-3. 📖 Created new wiki page [Documentacion](https://github.com/Bernaldv/Bernaldv/wiki/Documentacion) in [Bernaldv/Bernaldv](https://github.com/Bernaldv/Bernaldv)<br>
-4. 📖 Created new wiki page [Arquitectura](https://github.com/Bernaldv/Bernaldv/wiki/Arquitectura) in [Bernaldv/Bernaldv](https://github.com/Bernaldv/Bernaldv)<br>
-5. 📖 Created new wiki page [Proyecto](https://github.com/Bernaldv/Bernaldv/wiki/Proyecto) in [Bernaldv/Bernaldv](https://github.com/Bernaldv/Bernaldv)<br>
+1. ⬆️ Pushed 1 commit(s) to [Bernaldv/CursoGit](https://github.com/Bernaldv/CursoGit)<br>
+2. ⬆️ Pushed 1 commit(s) to [Bernaldv/CursoGit](https://github.com/Bernaldv/CursoGit)<br>
+3. ⬆️ Pushed 2 commit(s) to [Bernaldv/CursoGit](https://github.com/Bernaldv/CursoGit)<br>
+4. 🎉 Merged PR [#4](https://github.com/Bernaldv/CursoGit/pull/4) in [Bernaldv/CursoGit](https://github.com/Bernaldv/CursoGit)<br>
+5. ⬆️ Pushed 1 commit(s) to [Bernaldv/CursoGit](https://github.com/Bernaldv/CursoGit)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update_end-->
