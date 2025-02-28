@@ -17,10 +17,10 @@ Aprendizaje Actual: Data engineering
 
 ### Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Bernaldv/CursoGit](https://github.com/Bernaldv/CursoGit)<br>
-2. ⬆️ Pushed 1 commit(s) to [Bernaldv/CursoGit](https://github.com/Bernaldv/CursoGit)<br>
-3. ⬆️ Pushed 2 commit(s) to [Bernaldv/CursoGit](https://github.com/Bernaldv/CursoGit)<br>
-4. 🎉 Merged PR [#4](https://github.com/Bernaldv/CursoGit/pull/4) in [Bernaldv/CursoGit](https://github.com/Bernaldv/CursoGit)<br>
-5. ⬆️ Pushed 1 commit(s) to [Bernaldv/CursoGit](https://github.com/Bernaldv/CursoGit)<br>
+1. ❗️ Opened issue [#1](https://github.com/Bernaldv/miCuartoRepo/issues/1) in [Bernaldv/miCuartoRepo](https://github.com/Bernaldv/miCuartoRepo)<br>
+2. 📔 Created new repository [Bernaldv/miCuartoRepo](https://github.com/Bernaldv/miCuartoRepo)<br>
+3. 📔 Created new repository [Bernaldv/Mi-tercer-Repo](https://github.com/Bernaldv/Mi-tercer-Repo)<br>
+4. ⬆️ Pushed 1 commit(s) to [Bernaldv/Bernaldv](https://github.com/Bernaldv/Bernaldv)<br>
+5. ⬆️ Pushed 1 commit(s) to [Bernaldv/Bernaldv](https://github.com/Bernaldv/Bernaldv)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update_end-->
