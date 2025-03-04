@@ -17,10 +17,10 @@ Aprendizaje Actual: Data engineering
 
 ### Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1](https://github.com/Bernaldv/miCuartoRepo/issues/1) in [Bernaldv/miCuartoRepo](https://github.com/Bernaldv/miCuartoRepo)<br>
-2. 📔 Created new repository [Bernaldv/miCuartoRepo](https://github.com/Bernaldv/miCuartoRepo)<br>
-3. 📔 Created new repository [Bernaldv/Mi-tercer-Repo](https://github.com/Bernaldv/Mi-tercer-Repo)<br>
-4. ⬆️ Pushed 1 commit(s) to [Bernaldv/Bernaldv](https://github.com/Bernaldv/Bernaldv)<br>
-5. ⬆️ Pushed 1 commit(s) to [Bernaldv/Bernaldv](https://github.com/Bernaldv/Bernaldv)<br>
+1. ✌️ Released [V0.1.0](https://github.com/Bernaldv/TercerRepo/releases/tag/V0.1.0) in [Bernaldv/TercerRepo](https://github.com/Bernaldv/TercerRepo)<br>
+2. ⬆️ Pushed 1 commit(s) to [Bernaldv/TercerRepo](https://github.com/Bernaldv/TercerRepo)<br>
+3. 📔 Created new repository [Bernaldv/TercerRepo](https://github.com/Bernaldv/TercerRepo)<br>
+4. ⬆️ Pushed 2 commit(s) to [Bernaldv/miCuartoRepo](https://github.com/Bernaldv/miCuartoRepo)<br>
+5. 🎉 Merged PR [#3](https://github.com/Bernaldv/miCuartoRepo/pull/3) in [Bernaldv/miCuartoRepo](https://github.com/Bernaldv/miCuartoRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update_end-->
