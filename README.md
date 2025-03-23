@@ -17,10 +17,10 @@ Aprendizaje Actual: Data engineering
 
 ### Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Bernaldv/CursoMathCD](https://github.com/Bernaldv/CursoMathCD)<br>
-2. 📔 Created new repository [Bernaldv/CasoEstudio_OnlineRetail](https://github.com/Bernaldv/CasoEstudio_OnlineRetail)<br>
-3. ✌️ Released [V0.1.0](https://github.com/Bernaldv/TercerRepo/releases/tag/V0.1.0) in [Bernaldv/TercerRepo](https://github.com/Bernaldv/TercerRepo)<br>
-4. ⬆️ Pushed 1 commit(s) to [Bernaldv/TercerRepo](https://github.com/Bernaldv/TercerRepo)<br>
-5. 📔 Created new repository [Bernaldv/TercerRepo](https://github.com/Bernaldv/TercerRepo)<br>
+1. 📔 Created new repository [Bernaldv/cookiecutter_personal](https://github.com/Bernaldv/cookiecutter_personal)<br>
+2. 📔 Created new repository [Bernaldv/Curso_ConfEntonoCD](https://github.com/Bernaldv/Curso_ConfEntonoCD)<br>
+3. 📔 Created new repository [Bernaldv/CursoMathCD](https://github.com/Bernaldv/CursoMathCD)<br>
+4. 📔 Created new repository [Bernaldv/CasoEstudio_OnlineRetail](https://github.com/Bernaldv/CasoEstudio_OnlineRetail)<br>
+5. ✌️ Released [V0.1.0](https://github.com/Bernaldv/TercerRepo/releases/tag/V0.1.0) in [Bernaldv/TercerRepo](https://github.com/Bernaldv/TercerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update_end-->
