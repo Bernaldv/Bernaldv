@@ -21,6 +21,5 @@ Aprendizaje Actual: Data engineering
 2. 📔 Created new repository [Bernaldv/Curso_ConfEntonoCD](https://github.com/Bernaldv/Curso_ConfEntonoCD)<br>
 3. 📔 Created new repository [Bernaldv/CursoMathCD](https://github.com/Bernaldv/CursoMathCD)<br>
 4. 📔 Created new repository [Bernaldv/CasoEstudio_OnlineRetail](https://github.com/Bernaldv/CasoEstudio_OnlineRetail)<br>
-5. ✌️ Released [V0.1.0](https://github.com/Bernaldv/TercerRepo/releases/tag/V0.1.0) in [Bernaldv/TercerRepo](https://github.com/Bernaldv/TercerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update_end-->
